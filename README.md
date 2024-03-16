@@ -1,2 +1,2 @@
 # mi-portfolio
-Mi portfolio lo hice utilizando HTML y CSS
+Mi portfolio lo hice utilizando HTML, CSS & JavaScript
